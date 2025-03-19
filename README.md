@@ -22,7 +22,7 @@
 
 ## Dataset Link:
 
-[Credit Risk Dataset Link] (https://www.kaggle.com/datasets/laotse/credit-risk-dataset)
+[Credit Risk and Credit Score Dataset Link] (https://www.kaggle.com/datasets/laotse/credit-risk-dataset)
 
 
 ## Key Sections
